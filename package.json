@@ -1,6 +1,6 @@
 {
   "name": "@fariz_f/gsrp-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Types for the Golden State RP ecosystem",
   "main": "index.js",
   "scripts": {
